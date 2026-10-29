@@ -1,1 +1,4 @@
-print("Hello GitHub!")
+Area = float(input())
+Width = float(input())
+
+print(Area*Width)
